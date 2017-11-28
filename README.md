@@ -12,7 +12,7 @@
 
 ## How to use it
 - Reset terminal
-- Write dalias to see all alias:
+- Write dalias to see all alias related to docker:
   ```
   ➜  dalias
   c => docker-compose
